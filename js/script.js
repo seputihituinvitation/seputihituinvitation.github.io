@@ -29,8 +29,8 @@ document.getElementById("submit").addEventListener("click", function () {
       
     });
     Swal.fire(
-      "Konfirmasi Kamu Berhasil Tersimpan",
-      "Terima Kasih Banyak",
+      "Terima kasih sudah konfirmasi",
+      "Ditunggu ya kak kehadirannya :)",
       "success"
     );
   }
